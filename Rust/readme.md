@@ -1,0 +1,1 @@
+### A simple rust program to find primes
